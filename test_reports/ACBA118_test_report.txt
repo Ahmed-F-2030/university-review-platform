@@ -1,0 +1,14 @@
+ACBA118 Package Verification Report
+======================================
+DATA_JSON: OK - parsed successfully
+COURSE_COUNT: OK - 10 courses
+ACBA118_COURSE: OK - التخطيط الاستراتيجي / Strategic Planning
+ACBA118_DATA_COUNTS: OK - 97 questions, 72 terms, 72 definitions, 19 sources
+REQUIRED_FILES: OK - platform, master, and manual files exist
+COURSE_DATA: OK - all 10 course Excel files exist
+SOURCE_MATERIALS: OK - all 196 linked source files exist in course_materials
+HTML_LINK_PATCH: OK - source links route to course_materials/<course>/<file>
+ACBA118_LINKS: OK - all ACBA118 lecture/source targets exist
+DATA_ISOLATION: OK - question arrays isolated by course code
+
+Result: PASS

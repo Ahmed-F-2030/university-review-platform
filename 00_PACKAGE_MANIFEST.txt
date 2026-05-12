@@ -1,0 +1,213 @@
+00_README_START_HERE.txt
+University_Review_Platform_All_Courses_v6.html
+course_data/ACBA112/ACBA112_Organizational_Behavior_Unified_With_Terms_Definitions.xlsx
+course_data/ACBA117/ACBA117_Leadership_Skills_Unified_With_Terms_Definitions.xlsx
+course_data/ACBA118/ACBA118_Strategic_Planning_Unified_With_Terms_Definitions.xlsx
+course_data/ACDM110/ACDM110_Digital_Marketing_Unified_With_Terms_Definitions.xlsx
+course_data/ACE101/ACE101_Intensive_English_1_Unified_With_Terms_Definitions.xlsx
+course_data/ACIT125/ACIT125_Data_Analytics_Unified_With_Terms_Definitions.xlsx
+course_data/ACIT181/ACIT181_Fundamentals_of_Digital_Transformation_Unified_With_Terms_Definitions.xlsx
+course_data/ACIT182/ACIT182_Emerging_Technologies_Unified_With_Terms_Definitions.xlsx
+course_data/ACIT183/ACIT183_Information_Technology_Governance_Unified_With_Terms_Definitions.xlsx
+course_data/ACIT195/ACIT195_Practical_Training_Unified_With_Terms_Definitions.xlsx
+course_materials/ACBA112/Lecture 1 – Part 1.pdf
+course_materials/ACBA112/Lecture 1 – Part 2.pdf
+course_materials/ACBA112/Lecture 2 – Part 1.pdf
+course_materials/ACBA112/Lecture 2 – Part 2.pdf
+course_materials/ACBA112/Lecture 3 – Part 1.pdf
+course_materials/ACBA112/Lecture 3 – Part 2.pdf
+course_materials/ACBA112/Lecture 4 – Part 1.pdf
+course_materials/ACBA112/Lecture 4 – Part 2.pdf
+course_materials/ACBA112/Lecture 5 – Part 1.pdf
+course_materials/ACBA112/Lecture 5 – Part 2.pdf
+course_materials/ACBA112/Lecture 6 – Part 1.pdf
+course_materials/ACBA112/Lecture 6 – Part 2.pdf
+course_materials/ACBA112/Lecture 7 – Part 1.pdf
+course_materials/ACBA112/Lecture 7 – Part 2.pdf
+course_materials/ACBA112/Lecture 8 – Part 1.pdf
+course_materials/ACBA112/Lecture 8 – Part 2.pdf
+course_materials/ACBA112/Lecture 9 – Part 1.pdf
+course_materials/ACBA112/Lecture 9 – Part 2.pdf
+course_materials/ACBA112/اسئله_اختبارات_والتقييم_الذاتي_لمادة_السلوك_التنظيمي_للاختبار_النهائي.pdf
+course_materials/ACBA112/بنك الاسئلة سلوك معدل.pdf
+course_materials/ACBA117/Chapter 1 -Part 1 - Introduction to Leadership and Mindset Skills.pdf
+course_materials/ACBA117/Chapter 1- Part 2 - Introduction to Leadership and Mindset Skills.pdf
+course_materials/ACBA117/Chapter 2 - Part 1 - Career Skills.pdf
+course_materials/ACBA117/Chapter 2- Part 2 - Career Skills.pdf
+course_materials/ACBA117/Chapter 3 - Part 1 -  People Skills.pdf
+course_materials/ACBA117/Chapter 3 - Part 2 - People Skills.pdf
+course_materials/ACBA117/Chapter 4 - Part 1 - Moment of Truth Skills.pdf
+course_materials/ACBA117/Chapter 4 - Part 2 - Moment of Truth Skills.pdf
+course_materials/ACBA117/Chapter 5 - Part 1 - Daily Skills.pdf
+course_materials/ACBA117/Chapter 5 - Part 2 - Daily Skills.pdf
+course_materials/ACBA117/Chapter 6 - Part 1 - Organization skills.pdf
+course_materials/ACBA117/Chapter 6 - Part 2 - Organization skills.pdf
+course_materials/ACBA117/Chapter 7 - Part 1 - Political Skills.pdf
+course_materials/ACBA117/Chapter 7 - Part 2 - Political Skills.pdf
+course_materials/ACBA117/Chapter 8 - Part 1 - Financial Skills.pdf
+course_materials/ACBA117/Chapter 8 - Part 2 - Financial Skills.pdf
+course_materials/ACBA117/Chapter 9 - Part 1 - The art of Strategy.pdf
+course_materials/ACBA117/Chapter 9 - Part 2 - The art of Strategy.pdf
+course_materials/ACBA117/Self assessments & Activities & Quizzes (Leadership Skills).pdf
+course_materials/ACBA117/اسئله اختبارات والتقييم الذاتي لمادة مهارات القيادة للاختبار النهائي.pdf
+course_materials/ACBA118/Lecture 1 - Part 1.pdf
+course_materials/ACBA118/Lecture 1 - Part 2.pdf
+course_materials/ACBA118/Lecture 2 - Part 1.pdf
+course_materials/ACBA118/Lecture 2 - Part 2.pdf
+course_materials/ACBA118/Lecture 3 - Part 1.pdf
+course_materials/ACBA118/Lecture 3 - Part 2.pdf
+course_materials/ACBA118/Lecture 4 - Part 1.pdf
+course_materials/ACBA118/Lecture 4 - Part 2.pdf
+course_materials/ACBA118/Lecture 5 - Part 1.pdf
+course_materials/ACBA118/Lecture 5 - Part 2.pdf
+course_materials/ACBA118/Lecture 6 - Part 1.pdf
+course_materials/ACBA118/Lecture 6 - Part 2.pdf
+course_materials/ACBA118/Lecture 7 - Part 1.pdf
+course_materials/ACBA118/Lecture 7 - Part 2.pdf
+course_materials/ACBA118/Lecture 8 - Part 1.pdf
+course_materials/ACBA118/Lecture 8 - Part 2.pdf
+course_materials/ACBA118/Lecture 9 - Part 1.pdf
+course_materials/ACBA118/Lecture 9 - Part 2.pdf
+course_materials/ACBA118/Strategic Planning ACBA118 التخطيط الاستراتيجي.pdf
+course_materials/ACDM110/DCM110_Week1_KHS_Pt1.pdf
+course_materials/ACDM110/DCM110_Week1_KHS_Pt2.pdf
+course_materials/ACDM110/DCM110_Week2_KHS_Pt1.pdf
+course_materials/ACDM110/DCM110_Week2_KHS_Pt2.pdf
+course_materials/ACDM110/DCM110_Week2_KHS_Pt3.pdf
+course_materials/ACDM110/DCM110_Week3_KHS._Pt1.pdf
+course_materials/ACDM110/DCM110_Week3_KHS_Pt2.pdf
+course_materials/ACDM110/DCM110_Week4_KHS_Pt1.pdf
+course_materials/ACDM110/DCM110_Week4_KHS_Pt2.pdf
+course_materials/ACDM110/DCM110_Week5_KHS_Pt1.pdf
+course_materials/ACDM110/DCM110_Week5_KHS_Pt2.pdf
+course_materials/ACDM110/DCM110_Week5_KHS_Pt3.pdf
+course_materials/ACDM110/DCM110_Week6_KHS_Pt1.pdf
+course_materials/ACDM110/DCM110_Week6_KHS_Pt2.pdf
+course_materials/ACDM110/DCM110_Week6_KHS_Pt3.pdf
+course_materials/ACDM110/DCM110_Week7_KHS_Pt1.pdf
+course_materials/ACDM110/DCM110_Week7_KHS_Pt2.pdf
+course_materials/ACDM110/DCM110_Week8_KHS_Pt1.pdf
+course_materials/ACDM110/DCM110_Week8_KHS_Pt2.pdf
+course_materials/ACDM110/DCM110_Week8_KHS_Pt3.pdf
+course_materials/ACDM110/DCM110_Week9_KHS_Pt1.pdf
+course_materials/ACDM110/DCM110_Week9_KHS_Pt2.pdf
+course_materials/ACDM110/DCM110_Week9_KHS_Pt3.pdf
+course_materials/ACDM110/Digital Marketing ACDM110 التسويق الرقمي.pdf
+course_materials/ACE101/Unit 1-EDITED-AUDIO+VIDEO- Hello.pdf
+course_materials/ACE101/Unit 10-EDITED-AUDIO+VIDEO - Famous People.pdf
+course_materials/ACE101/Unit 11-EDITED-AUDIO+VIDEO - True stories.pdf
+course_materials/ACE101/Unit 12-EDITED-AUDIO+VIDEO - The weekend.pdf
+course_materials/ACE101/Unit 2 - Holidays.pdf
+course_materials/ACE101/Unit 3 - Family & Frnds.pdf
+course_materials/ACE101/Unit 4 - Cities.pdf
+course_materials/ACE101/Unit 5 - My Things.pdf
+course_materials/ACE101/Unit 6 - We Love it.pdf
+course_materials/ACE101/Unit 7 - Daily Life.pdf
+course_materials/ACE101/Unit 8-EDITED-AUDIO+VIDEO - Work and study.pdf
+course_materials/ACE101/Unit 9-EDITED-AUDIO+VIDEO - Travel.pdf
+course_materials/ACE101/جميع_تجميعات_اللغة_الإنجليزية_١٤٤٥هـ_في_ملف_واحد_.pdf
+course_materials/ACE101/كتاب الطالب انقليزي.pdf
+course_materials/ACIT125/Lecture 1 - (1-1).pdf
+course_materials/ACIT125/Lecture 1 - (1-2).pdf
+course_materials/ACIT125/Lecture 2 - (2-1).pdf
+course_materials/ACIT125/Lecture 2 - (2-2).pdf
+course_materials/ACIT125/Lecture 3 - (3-1).pdf
+course_materials/ACIT125/Lecture 3 - (3-2).pdf
+course_materials/ACIT125/Lecture 4 - (4-1).pdf
+course_materials/ACIT125/Lecture 4 - (4-2).pdf
+course_materials/ACIT125/Lecture 5 - (5-1).pdf
+course_materials/ACIT125/Lecture 5 - (5-2).pdf
+course_materials/ACIT125/Lecture 6 - (6-1).pdf
+course_materials/ACIT125/Lecture 6 - (6-2).pdf
+course_materials/ACIT125/Lecture 7 - (7-1).pdf
+course_materials/ACIT125/Lecture 7 - (7-2).pdf
+course_materials/ACIT125/Lecture 8 - (8-1).pdf
+course_materials/ACIT125/Lecture 8 - (8-2).pdf
+course_materials/ACIT125/Lecture 9 - (9-1).pdf
+course_materials/ACIT125/Lecture 9 - (9-2).pdf
+course_materials/ACIT125/بنك الاسئلة تحليل بيانات.pdf
+course_materials/ACIT181/ACIT 181_LECTURE 1_PART 1.pdf
+course_materials/ACIT181/ACIT 181_LECTURE 1_PART 2.pdf
+course_materials/ACIT181/ACIT 181_LECTURE 2_PART 1.pdf
+course_materials/ACIT181/ACIT 181_LECTURE 2_PART 2.pdf
+course_materials/ACIT181/ACIT 181_LECTURE 3_PART 1.pdf
+course_materials/ACIT181/ACIT 181_LECTURE 3_PART 2.pdf
+course_materials/ACIT181/ACIT 181_LECTURE 4_PART 1.pdf
+course_materials/ACIT181/ACIT 181_LECTURE 4_PART 2.pdf
+course_materials/ACIT181/ACIT 181_LECTURE 5_PART 1.pdf
+course_materials/ACIT181/ACIT 181_LECTURE 5_PART 2.pdf
+course_materials/ACIT181/ACIT 181_LECTURE 6_PART 1.pdf
+course_materials/ACIT181/ACIT 181_LECTURE 6_PART 2.pdf
+course_materials/ACIT181/ACIT 181_LECTURE 7_PART 1.pdf
+course_materials/ACIT181/ACIT 181_LECTURE 7_PART 2.pdf
+course_materials/ACIT181/ACIT 181_LECTURE 8_PART 1.pdf
+course_materials/ACIT181/ACIT 181_LECTURE 8_PART 2.pdf
+course_materials/ACIT181/ACIT 181_LECTURE 9_PART 1.pdf
+course_materials/ACIT181/ACIT 181_LECTURE 9_PART 2.pdf
+course_materials/ACIT181/اختبار اساسيات التحول الرقمي محضرة 1.pdf
+course_materials/ACIT182/Chapter 1 Part 1.pdf
+course_materials/ACIT182/Chapter 1 Part 2.pdf
+course_materials/ACIT182/Chapter 2 part 1.pdf
+course_materials/ACIT182/Chapter 2 part 2.pdf
+course_materials/ACIT182/Chapter 3 Part 1.pdf
+course_materials/ACIT182/Chapter 3 Part 2.pdf
+course_materials/ACIT182/Chapter 4 Part 1.pdf
+course_materials/ACIT182/Chapter 4 Part 2.pdf
+course_materials/ACIT182/Chapter 5 Part 1.pdf
+course_materials/ACIT182/Chapter 5 Part 2.pdf
+course_materials/ACIT182/Chapter 6 Part 1.pdf
+course_materials/ACIT182/Chapter 6 Part 2.pdf
+course_materials/ACIT182/Chapter 7 Part 1.pdf
+course_materials/ACIT182/Chapter 7 Part 2.pdf
+course_materials/ACIT182/Chapter 8 Part 1.pdf
+course_materials/ACIT182/Chapter 8 Part 2.pdf
+course_materials/ACIT182/Chapter 9 Part 1.pdf
+course_materials/ACIT182/Chapter 9 Part 2.pdf
+course_materials/ACIT182/Emerging Technologies (ACIT182) التقنيات الناشئة .pdf
+course_materials/ACIT183/Ch 1.1 Fundamentals of IT Governance.pdf
+course_materials/ACIT183/Ch 1.2 Fundamentals of IT Governance.pdf
+course_materials/ACIT183/Ch 2.1 Strategic Alignment Techniques for aligning IT with business goal.pdf
+course_materials/ACIT183/Ch 2.2 Strategic Alignment Techniques for aligning IT with business goal.pdf
+course_materials/ACIT183/Ch 3.1 IT Governance Methods and Frameworks.pdf
+course_materials/ACIT183/Ch 3.2 IT Governance Methods and Frameworks.pdf
+course_materials/ACIT183/Ch 4.1 Risk Management.pdf
+course_materials/ACIT183/Ch 4.2 Risk Management.pdf
+course_materials/ACIT183/Ch 5.1 Performance Measurement.pdf
+course_materials/ACIT183/Ch 5.2 Performance Measurement.pdf
+course_materials/ACIT183/Ch 6.1 Compliance and Regulations.pdf
+course_materials/ACIT183/Ch 6.2 Compliance and Regulations.pdf
+course_materials/ACIT183/Ch 7.1 Resource Management.pdf
+course_materials/ACIT183/Ch 7.2 Resource Management.pdf
+course_materials/ACIT183/Ch 8.1 Case Studies.pdf
+course_materials/ACIT183/Ch 8.2 Case Studies.pdf
+course_materials/ACIT183/Ch 9.1 Best Practices.pdf
+course_materials/ACIT183/Ch 9.2 Best Practices.pdf
+course_materials/ACIT183/Information Technology Governance ACIT183 حوكمة تقنية المعلومات.pdf
+course_materials/ACIT195/ACIT195_interactive_quiz_enhanced (1).html
+course_materials/ACIT195/Lecture 1 - resume writing -part 2.pdf
+course_materials/ACIT195/Lecture 1 - resume writing part 1.pdf
+course_materials/ACIT195/Lecture 1 - resume writing part 3.pdf
+course_materials/ACIT195/Lecture 2 -  job interview part 1.pdf
+course_materials/ACIT195/Lecture 2 -  job interview part2.pdf
+course_materials/ACIT195/Lecture 2 - job interview part3.pdf
+course_materials/ACIT195/Lecture 3 part 1 training.pdf
+course_materials/ACIT195/Lecture 3 part 2 training.pdf
+course_materials/ACIT195/Lecture 4 - Presentation skills part 1.pdf
+course_materials/ACIT195/Lecture 4 - Presentation skills part 2.pdf
+course_materials/ACIT195/Lecture 4 - Presentation skills part 3.pdf
+course_materials/ACIT195/Lecture 5 - Report Writing Basics part 1.pdf
+course_materials/ACIT195/Lecture 5 - Report Writing Basics part 2.pdf
+course_materials/ACIT195/Lecture 6 - Emotional intellegance part 1.pdf
+course_materials/ACIT195/Lecture 6 - Emotional intellegance part 2.pdf
+course_materials/ACIT195/Lecture 7 - soft and hard skills part 1.pdf
+course_materials/ACIT195/Lecture 7 - soft and hard skills part 2.pdf
+course_materials/ACIT195/Lecture 8 - Personal Branding and Online Presence part 1.pdf
+course_materials/ACIT195/Lecture 8 - Personal Branding and Online Presence part2.pdf
+course_materials/ACIT195/Lecture 9 - Time Management and Productivity in Digital Settings part 1.pdf
+course_materials/ACIT195/Lecture 9 - Time Management and Productivity in Digital Settings part 2.pdf
+course_materials/ACIT195/التدريب التطبيقي شامل السيلف الكويزات الاكتيفيتي.pdf
+data_master/KAU_Digital_Transformation_All_Courses_Master_Data_v1_1.xlsx
+index.html
+manual/University_Review_Platform_User_Manual_v2.docx
+manual/University_Review_Platform_User_Manual_v2.pdf
+test_reports/ACBA118_test_report.txt
